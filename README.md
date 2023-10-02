@@ -4,7 +4,7 @@ Instructional assistant of Data Analytics in Session 2
 
 
 
-1. Instructional Assistant of Foundation of Data Analytics (session 3):
+1. Instructional Assistant of Foundation of Data Analytics @ session 3:
 
 Gengcheng Zhang: Master's Candidate in Business Analytics | Skilled in SQL, Python, R | Passionate Data Analyst & Creative Problem-Solver | Excelled in E-commerce, Finance & Digital Marketing
 
